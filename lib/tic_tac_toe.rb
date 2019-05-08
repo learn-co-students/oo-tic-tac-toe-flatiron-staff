@@ -101,5 +101,4 @@ class TicTacToe # arguments: board, input,
     end
   end
 
-
 end
